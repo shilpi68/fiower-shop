@@ -19,7 +19,7 @@ body{
     background-color:rgba(229,80,115,0.10) ;
     width: 1500px;
     height: 800px;
-    border: 2px solid blue;
+    
     
     
 }
@@ -39,9 +39,61 @@ body{
     padding: 20px 40px;
     align-items: flex-start;
     gap:10px
-    color:#FFF;
+    color: #FFF;
     background-color:#E55473 ;
     border-radius:5px;
+    border:0;
+
+}
+.flower-banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1500px;
+    height: 800px;
+    background-color: rgba(229,84,115,0.05);
+}
+.flower-sale{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.flower-off{
+    color: #E55473;
+    font-size: 40px;
+    font-weight: 800;
+}
+.flower-paragrap{
+    color: rgba(39,39,39,0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.flower-photo{
+width: 300px;
+height: 400px;
+}
+.Instagram{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.content{
+    color: rgba(39,39,39,0.60);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.flower-asset{
+    display: flex;
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    align-items: center;
+    gap: 25px;
 }
 
     
