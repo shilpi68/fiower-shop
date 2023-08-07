@@ -1,6 +1,7 @@
 *{
     margin: 20px;
     padding: 20px;
+    
 }
 body{
     font-family: 'Lato',sans-serif;
@@ -96,7 +97,15 @@ height: 400px;
     gap: 25px;
 }
 .Rectangle-img{
-    background-image: url('./Flower\ Asset/Rectangle9.png'),linear-gradient(45deg #000, #696666)
+    width:1000px ;
+    height:800px ;
+    background-image: linear-gradient(#fff,#fff);url("../image/Flower Asset/Rectangle: 9png;")
+    background-size: cover;
+    padding: 10px 20px;
+    position: relative;
+    background-repeat:no-repeat;
+
+    
 }
 
   .footer-title{
