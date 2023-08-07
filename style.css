@@ -1,6 +1,6 @@
 *{
-    margin: 0px;
-    padding: 0px;
+    margin: 20px;
+    padding: 20px;
 }
 body{
     font-family: 'Lato',sans-serif;
@@ -95,6 +95,37 @@ height: 400px;
     align-items: center;
     gap: 25px;
 }
+.Rectangle-img{
+    background-image: url('./Flower\ Asset/Rectangle9.png'),linear-gradient(45deg #000, #696666)
+}
 
+  .footer-title{
+    width: 1500px;
+    height: 800px;
+    background-color: #111010;
+    text-align: center;
+    justify-content: center;
+  }  
+  .footer-header{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
     
+  }
+  .shop{
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+  }
+  .header-content{
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+  }
+  .footer-flowershop{
+    color: #FFF;
+    font-size: 10px;
+    font-weight: 200;
+  }
 
